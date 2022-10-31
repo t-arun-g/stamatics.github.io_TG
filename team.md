@@ -21,7 +21,7 @@ author_profile: false
 * Malik Zadah Irfan
 * Hridhan Patel
 * Tarun Goyal
-* Piyush Bhati
+* Piyush Bhatiya
 * Saugat Kannojia
 * Abir Rajbongshi
 * Vrinda Sharma
