@@ -13,6 +13,28 @@ author_profile: false
 * [Pranshu Gaur](https://www.facebook.com/PranshuSaxena.ML)
 
 ## Executives 2022-23
+* Aditya Pandey
+* Anandita Mishra
+* Akshat Mehta
+* Bhavaj Singla
+* Chetanya Bhan
+* Medha Srivastava
+* Malik Zadah Irfan
+* Hridhan Patel
+* Tarun Goyal
+* Piyush Bhatiya
+* Saugat Kannojia
+* Abir Rajbongshi
+* Vrinda Sharma
+* Neerav Sethi
+* Lavesh Gupta
+* Indresh Singh
+* Soham Sen
+* Sharvani
+* Shrilakshmi SK
+* Sanat Goyal
+* Sai Praneeth Donthu
+* Siddharth Maurya
 
 ## Coordinators 2021-22
 * [Abhimanyu Sethia](https://www.facebook.com/abhimanyusethia12)
