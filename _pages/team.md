@@ -6,6 +6,14 @@ layout: single
 author_profile: false
 ---
 
+## Coordinators 2022-23
+* [Aniruddh Pramod](https://www.facebook.com/profile.php?id=100073246155953)
+* [Bipplav Kumar Tiwari](https://www.facebook.com/bipplav.tiwari)
+* [Dwija Kakkad](https://www.facebook.com/profile.php?id=100075453690954)
+* [Pranshu Gaur](https://www.facebook.com/PranshuSaxena.ML)
+
+## Executives 2022-23
+
 ## Coordinators 2021-22
 * [Abhimanyu Sethia](https://www.facebook.com/abhimanyusethia12)
 * [Arkajyoti Bhattacharjee](https://www.facebook.com/arka.bhattacharjee.1612)
