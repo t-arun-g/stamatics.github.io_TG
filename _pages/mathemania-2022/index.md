@@ -6,8 +6,7 @@ layout: single
 author_profile: false
 
 ---
-- This page shall serve as an archive for Mathemania. The official website is [mathemania.vercel.app](mathemania.vercel.app). 
-- Let the 100th Hunger Games Begin!
+Let the 100th Hunger Games Begin!
 
 ## Registration
 
@@ -19,7 +18,7 @@ To register, fill the form latest by 25th December, 11:59 PM [here](https://form
 
 - The team leader of each registering team is requested to join this Whatsapp Group : [invite link](https://chat.whatsapp.com/Bn3lWYEFgDk22QWH5nJAKk)
 
-- Also see, the official Mathemania exclusive website.
+- Also see, the official Mathemania [website](https://mathemania.vercel.app)
 
 ## Question Papers
 
