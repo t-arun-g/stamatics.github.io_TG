@@ -11,6 +11,7 @@ Let the 100th Hunger Games Begin!
 ## Registration
 
 To register, fill the form latest by 25th December, 11:59 PM [here](https://forms.gle/9UH1CKYqemL912Xu5)
+Update: Registration has ended!
 
 ## Discord and Whatsapp
 
@@ -22,6 +23,6 @@ To register, fill the form latest by 25th December, 11:59 PM [here](https://form
 
 ## Question Papers
 
-> "It is the worst torture in the world, waiting, when you know there's nothing you can do."
+- [Round 1](data/ROUND1_final.pdf)
 
-So while you wait, maybe check out our other socials, or network in the discord?
+> "It is the worst torture in the world, waiting, when you know there's nothing you can do."
