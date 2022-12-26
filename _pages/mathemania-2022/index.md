@@ -26,3 +26,4 @@ Update: Registration has ended!
 - [Round 1](data/ROUND1_final.pdf)
 
 > "It is the worst torture in the world, waiting, when you know there's nothing you can do."
+> So while you wait, maybe check out our other socials, or network in the discord?
