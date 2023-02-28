@@ -8,7 +8,7 @@ header:
   overlay_image: stamatics_coverpage.jpg
 ---
 ## Anouncements
-* Projects 2022 applications and details have been released. Please check Projects tab on the website.
+* Projects 2023 applications for mentors have been released. Kindly fill out this <a href="https://docs.google.com/forms/d/e/1FAIpQLSec18n4eGcYp8ll5_W_yzzbRNtbDGpdW2sBsadvo9mnKS5IIA/viewform?usp=sf_link">Google Form</a>
 
 ## About Us
 
