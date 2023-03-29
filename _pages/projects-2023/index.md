@@ -99,7 +99,7 @@ Prerequisites: MTH301 - attempting this course is important, I want to make link
 
 ## 6 -  MathData: Empowering Data Science with Mathematical Tools
 
-* **Mentors :**Siddhant Singhai, Dishant Jain
+* **Mentors :** Siddhant Singhai, Dishant Jain
 * **Project Area :** Statistics , Data Science ,Time Series Analysis
 
 * **Description :** In the first two weeks we would make the mentees familiar with the basics of python and the libraries we are going to use in the project which are pandas, NumPy , matplotlib , seaborn. Then in the following weeks we will focus on the statistical methods used in the data analysis and machine learning.We will also teach scikit-learn library as we will use this for the topics we are going to study later. We will start with the linear regression, Gradient descent, and cost function then we will move to the logistic regression, decision tree and random forest. Next We will finally move on to the K-means clustering. We will also teach if time remains naïve bayes classifier algorithm. At the end we will give them some glimpse of what extrapolation and interapolation is and introduce them to time series analysis also.We will specially focus on the theory of mathematical tools we are using like the regression analysis.
@@ -127,7 +127,7 @@ Prerequisites: MTH301 - attempting this course is important, I want to make link
 * **Description :** The project will mainly consist of 2 parts - first the basics of formal logic and the second part would be basics of automata theory and computation. In formal logic we will cover propositional logic syntax and semantics, natural deduction, soundness and completeness, axiomatisation and its soundness and completeness, first order logic, examples of some simple SAT solvers and finally modal logic. For the second phase we will mainly cover the basic overview of formal defination of finite automata, regular/non-regular languages, nondeterminism, context free grammars and pushdown automata. We will mainly use our course notes and the book by Michael Sipser for automata and Logic in CS by Huth and Ryan for formal logic.
 
 
-* **Intended Audience :**This project will mainly be directed towards the Y22 especially those who are going to take up a formal logic course in their upcoming semesters. No prerequisite knowledge is required for this project.
+* **Intended Audience :** This project will mainly be directed towards the Y22 especially those who are going to take up a formal logic course in their upcoming semesters. No prerequisite knowledge is required for this project.
  
 
 * **Expected Duration :** 6 weeks  
