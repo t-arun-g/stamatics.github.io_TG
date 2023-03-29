@@ -1,9 +1,9 @@
 # main links
 main:
   - title: "Mathemania"
-    url: /mathemania-2022/
-  - title: "Projects 2022"
-    url: /projects-2022/
+    url: https://stamatics.github.io/mathemania/
+  - title: "Projects 2023"
+    url: /projects-2023/
   - title: "Team"
     url: /team/
   - title: "Blog"
