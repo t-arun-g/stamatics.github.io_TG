@@ -6,6 +6,36 @@ layout: single
 author_profile: false
 ---
 
+## Coordinators 2022-23
+* [Aniruddh Pramod](https://www.facebook.com/profile.php?id=100073246155953)
+* [Bipplav Kumar Tiwari](https://www.facebook.com/bipplav.tiwari)
+* [Dwija Kakkad](https://www.facebook.com/profile.php?id=100075453690954)
+* [Pranshu Gaur](https://www.facebook.com/PranshuSaxena.ML)
+
+## Executives 2022-23
+* Aditya Pandey
+* Anandita Mishra
+* Akshat Mehta
+* Bhavaj Singla
+* Chetanya Bhan
+* Medha Srivastava
+* Malik Zadah Irfan
+* Hridhan Patel
+* Tarun Goyal
+* Piyush Bhatiya
+* Saugat Kannojia
+* Abir Rajbongshi
+* Vrinda Sharma
+* Neerav Sethi
+* Lavesh Gupta
+* Indresh Singh
+* Soham Sen
+* Sharvani
+* Shrilakshmi SK
+* Sanat Goyal
+* Sai Praneeth Donthu
+* Siddharth Maurya
+
 ## Coordinators 2021-22
 * [Abhimanyu Sethia](https://www.facebook.com/abhimanyusethia12)
 * [Arkajyoti Bhattacharjee](https://www.facebook.com/arka.bhattacharjee.1612)
