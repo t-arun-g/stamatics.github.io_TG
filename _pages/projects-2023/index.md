@@ -99,7 +99,7 @@ Prerequisites: MTH301 - attempting this course is important, I want to make link
 
 ## 6 -  MathData: Empowering Data Science with Mathematical Tools
 
-* **Mentors :** Dishant Jain, Siddhant Singhai,
+* **Mentors :** Dishant Jain, Siddhant Singhai
 * **Project Area :** Statistics , Data Science ,Time Series Analysis
 
 * **Description :** In the first two weeks we would make the mentees familiar with the basics of python and the libraries we are going to use in the project which are pandas, NumPy , matplotlib , seaborn. Then in the following weeks we will focus on the statistical methods used in the data analysis and machine learning.We will also teach scikit-learn library as we will use this for the topics we are going to study later. We will start with the linear regression, Gradient descent, and cost function then we will move to the logistic regression, decision tree and random forest. Next We will finally move on to the K-means clustering. We will also teach if time remains naïve bayes classifier algorithm. At the end we will give them some glimpse of what extrapolation and interapolation is and introduce them to time series analysis also.We will specially focus on the theory of mathematical tools we are using like the regression analysis.
