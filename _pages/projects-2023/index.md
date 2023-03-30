@@ -8,7 +8,7 @@ author_profile: false
 ---
 
 -
-Join the Stamatics discord server to interact with the mentors and for any other communication: [invite link](https://discord.gg/QUpWzWKm)
+Join the Stamatics discord server to interact with the mentors and for any other communication: [invite link](https://discord.gg/JymBYVKWAY)
 
 The recording of the projects introductory session can be found [here](https://youtu.be/vsM8uEKik_A)
 
