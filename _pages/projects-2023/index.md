@@ -12,236 +12,160 @@ Join the Stamatics discord server to interact with the mentors and for any other
 
 The recording of the projects introductory session can be found [here](https://youtu.be/vsM8uEKik_A)
 
-## 1 - Eavesdropping 101 
+## 1 - Eavesdropping 101
 * **Project Area :** Cryptography
-
-* **Mentors :** Rahul Jha, Ravija Chandel
-
+* **Mentors :** Ravija Chandel,Rahul Jha(juggernaut.jha#1241)
 * **Description :** Most projects on cryptography focus on algorithms but like the great Loup Vailant said, one should never roll their own crypto. We will start with basics of finite fields before diving headfirst into DES and AES. Less time would be spent on the specifics of implementation and more time on the cryptanalysis. Then we will introduce key exchange, and their weaknesses.
-
-  Prerequisites: None
+  Prerequisites: MTH102 (Linear Algebra), ESC101 (Intro To CS)
 
 * **Intended Audience :** Y21-Y22
 
-* **Expected Duration :**  10 weeks
+* **Expected Duration :** 10 weeks 
+
+* **Expected Weekly Commitment :** 6 hours 
 
 
-* **Expected Weekly Commitment :** 6 hours
-
-<!--- * **Showcase :** [here](https://stamatics.github.io/projects-2022/quantum-algorithms) 
--->
-
-## 2 - Some Problems in Combinatorics
- 
-* **Mentors :** Farzan Byramji
+## 2 - Some Problems in Combinatorics 
+* **Mentors :** Farzan Byramji (geekotechy#7312), Pranshu Gaur (pran#1011)  
 
 * **Project Area :** Combinatorics
 
-
 * **Description :** The main goal will be to try solving some problems in combinatorics that seem interesting. Problems of several kinds like enumerative, algebraic, or extremal can be considered. Some of these may have connections to TCS or discrete probability.
 
+     * **Prerequisites :** Some very basic combinatorics (say roughly at the level of Bona's A Walk through Combinatorics or the course CS201) is desirable. More knowledge related to the kind of problems one is interested in tackling (for instance, from Stanley's books for enumerative combinatorics or Alon and Spencer's The Probabilistic Method for some extremal stuff) would be helpful. None of this is strictly necessary (or sufficient) and most things can be picked up as we go along. Some mathematical maturity is perhaps the only essential requirement.
 
-     Prerequisites :Some very basic combinatorics (say roughly at the level of Bona's A Walk through Combinatorics or the course CS201) is desirable. More knowledge related to the kind of problems one is interested in tackling (for instance, from Stanley's books for enumerative combinatorics or Alon and Spencer's The Probabilistic Method for some extremal stuff) would be helpful. None of this is strictly necessary (or sufficient) and most things can be picked up as we go along. Some mathematical maturity is perhaps the only essential requirement.
+* **Expected Duration :** 2-3 months 
+
+* **Expected Weekly Commitment :** 3-6 hours  
 
 
-* **Intended Audience :** Y22 and Y21
-
-* **Expected Duration :** 2 - 3 months
- 
-
-* **Expected Weekly Commitment :** 3-6 hours 
-<!--- * **Showcase :** [here](https://stamatics.github.io/projects-2022/mathematical-tools-for-data-science) 
--->
-
-## 3 - An Introduction to Geometric Deep Learning  
-* **Mentors :** Aniruddh Pramod, Mehar Goenka
+## 3 - An Introduction to Geometric Deep Learning 
+* **Mentors :** Aniruddh Pramod (atrytone#6918),Mehar Goenka (mehar#0870)
 * **Project Area :** Geometric Deep Learning, Graph Neural Networks, Artificial Intelligence
-  
-* **Description :**  Geometric deep learning is a rapidly emerging field at the intersection of deep learning and geometry, which has the potential to revolutionize the way we analyze and understand complex data structures such as 3D shapes and graphs. This project is designed to provide you with a solid foundation in the concepts, methods, and applications of geometric deep learning and  show you the power of the Erlangen program for Machine Learning.  
-Prerequisites: A good understanding of Python programming.
+* **Description :**  Geometric deep learning is a rapidly emerging field at the intersection of deep learning and geometry, which has the potential to revolutionize the way we analyze and understand complex data structures such as 3D shapes and graphs. This project is designed to provide you with a solid foundation in the concepts, methods, and applications of geometric deep learning and  show you the power of the Erlangen program for Machine Learning.  Prerequisites: A good understanding of Python programming
 
 * **Intended Audience :** Y21 and Y22
-* **Expected Duration :** 8-10 weeks  
+* **Expected Duration :** 9-10 weeks  
 * **Expected Weekly Commitment :** 8 hours  
-<!--- * **Showcase :** [here](https://stamatics.github.io/projects-2022/statistical-analysis) 
--->
 
-## 4 - Real analysis
 
-* **Mentors :** Suyash Kumar Pathak
-* **Project Area :** Real Analysis
+## 4 - Introduction to measure theory
+* **Mentors :** Suyash Kumar Pathak (SoberTone#0164), Abhishek Shree (killBird#5626)
+* **Project Area :** Number Theory and Abstract Algebra
 * **Description :** This project aims to unearth the deeper and much more sophisticated aspects of real analysis. This would help the students not only to build up on their knowledge of analysis but also make their platform much more robust.
-Prerequisites: MTH301 - attempting this course is important, I want to make links between what they already knwo and then get them to know about measure theory.
+  The other component would be the application of the concepts learned in areas like cryptography, random number generation, hash functions, etc.
 
-
-
-* **Intended Audience :** Y21 and Y21
+* **Prerequisites :** MTH301 - attempting this course is important, I want to make links between what they already knwo and then get them to know about measure theory.
+* **Intended Audience :** Y20 and Y21
 * **Expected Duration :** 2 months 
 * **Expected Weekly Commitment :** 7-8 hours 
 <!---* **Showcase :** [here](https://stamatics.github.io/projects-2022/number-theory-and-cryptography)  
 -->
 
-## 5 - The Rubix Cube: A Study In Group Theory  
-* **Mentors :** Sai Praneeth D, Tarun Goyal
-
+## 5 - The Rubix Cube: A Study In Group Theory 
+* **Mentors :** Sai Praneeth D (electric_trash#2834), Tarun Goyal (TarunGoyal#3482)
 * **Project Area :** Abstract Algebra 
 * **Description :** In this project we will study the maths behind the Rubix Cube, focussing on the topic of Group Theory. Initially the project will delve into the fundamentals of Group Theory and relevant concepts that will be required. We shall further explore how these concepts can be applied in solving the Rubix. The overall aim of this project is to explore a more theoretical and abstract side of mathematics and how it has real life practical uses using the rubix cube as a basic example.
 
 
-* **Intended Audience :** UG Y22 mainly, Y21 also
 
+* **Intended Audience :** Y22 mainly, Y21 also
 * **Expected Duration :** 2 months
+* **Expected Weekly Commitment :** 4-5 hrs  
 
-* **Expected Weekly Commitment :** 4-5 hours
-  
-<!---* **Showcase :** [here](https://stamatics.github.io/projects-2022/geometric-mechanics)
--->
 
-## 6 -  MathData: Empowering Data Science with Mathematical Tools
-
-* **Mentors :** Dishant Jain, Siddhant Singhai
+## 6 - MathData: Empowering Data Science with Mathematical Tools  
+* **Mentors :** Siddhant Singhai(SiddhantSinghai#2918),Dishant Jain(dishant 02#6679)
 * **Project Area :** Statistics , Data Science ,Time Series Analysis
+* **Description :** In the first two weeks we would make the mentees familiar with the basics of python and the libraries we are going to use in the project which are pandas, NumPy , matplotlib , seaborn. Then in the following weeks we will focus on the statistical methods used in the data analysis and machine learning.We will also teach scikit-learn library as we will use this for the topics we are going to study later. We will start with the linear regression, Gradient descent, and cost function then we will move to the logistic regression, decision tree and random forest. Next We will finally move on to the K-means clustering. We will also teach if time remains naïve bayes classifier algorithm. At the end we will give them some glimpse of what extrapolation and interapolation is and introduce them to time series analysis also.We will specially focus on the theory of mathematical tools we are using like the regression analysis.
 
-* **Description :** In the first two weeks we would make the mentees familiar with the basics of python and the libraries we are going to use in the project which are pandas, NumPy , matplotlib , seaborn. Then in the following weeks we will focus on the statistical methods used in the data analysis and machine learning.We will also teach scikit-learn library as we will use this for the topics we are going to study later. We will start with the linear regression, Gradient descent, and cost function then we will move to the logistic regression, decision tree and random forest. Next We will finally move on to the K-means clustering. We will also teach if time remains naïve bayes classifier algorithm. At the end we will give them some glimpse of what extrapolation and interapolation is and introduce them to time series analysis also.We will specially focus on the theory of mathematical tools we are using like the regression analysis.
+   * **Prerequisites:**
+Basic python skills , Anyone with enthu is welcome(specially Y22)
 
-
-  
-
-    Prerequisites: Basic python skills , Anyone with enthu is welcome(specially Y22)
-
-* **Intended Audience :** Only UG Y22, Y21
-* **Expected Duration :**  3 months (mid march to mid june)
-
-* **Expected Weekly Commitment :** 6-8 hrs(will be flexible).
-
-<!---* **Showcase :** [here](https://stamatics.github.io/projects-2022/an-invitation-to-functional-analysis) 
--->
+* **Expected Duration :** 3 months  
+* **Expected Weekly Commitment :** 6 hours   
 
 ## 7 - Formal logic and Automata Theory
-* **Mentors :**Abir Rajbongshi, Dhruv Garg
- 
+* **Mentors :** Abir Rajbongshi  (Abir #4687), Dhruv Garg (Dhruv Garg#2699),Bhavaj Singla(210265_bhavaj#3414)
 
 * **Project Area :** Mathematical logic
- 
 
 * **Description :** The project will mainly consist of 2 parts - first the basics of formal logic and the second part would be basics of automata theory and computation. In formal logic we will cover propositional logic syntax and semantics, natural deduction, soundness and completeness, axiomatisation and its soundness and completeness, first order logic, examples of some simple SAT solvers and finally modal logic. For the second phase we will mainly cover the basic overview of formal defination of finite automata, regular/non-regular languages, nondeterminism, context free grammars and pushdown automata. We will mainly use our course notes and the book by Michael Sipser for automata and Logic in CS by Huth and Ryan for formal logic.
 
-
 * **Intended Audience :** This project will mainly be directed towards the Y22 especially those who are going to take up a formal logic course in their upcoming semesters. No prerequisite knowledge is required for this project.
- 
 
 * **Expected Duration :** 6 weeks  
 
-* **Expected Weekly Commitment :** 6-7 hours 
-  
-<!---* **Showcase :** [here](https://stamatics.github.io/projects-2022/statistical-simulation) 
--->
+* **Expected Weekly Commitment :** 6-7 hours  
+
 
 ## 8 - From the Discrete to the Continuous and back
-
-* **Mentors :** Nupur Jain 
-
+* **Mentors :**Nupur Jain (NupurJ#8918)
 * **Project Area :** Topology and Combinatorics
 * **Description :** The study of topology explores continuous transformations, while combinatorics studies the discrete. The two interact and enrich each other in intriguing ways. In this project, we will take a look at how translating a problem from one of these domains to the other often makes for a more elegant and intuitive treatment. In particular, we will cover a topological proof of Kuratowski's theorem, a combinatorial proof of Brouwer's fixed point theorem, and see how triangulations are powerful tools to understand surfaces. Further topics can be decided based on which direction the interests of the mentees develop.
-
 * **Intended Audience :** All batches are welcome. No prerequisites are required. Elementary knowledge of topology would be useful but can easily be covered in the initial part of the project.
-
-* **Expected Duration :** 8 weeks or more
- 
-* **Expected Weekly Commitment :**  At least 5 hours.
-
-<!---* **Showcase :** [here](https://stamatics.github.io/projects-2022/introduction-to-proof-complexity) 
--->
-
-## 9 - An Introduction to Theoretical Computer Science
- 
-* **Mentors :** Rohun Easwar, Pranjal Singh
+* **Expected Duration :** 8 weeks or more 
+* **Expected Weekly Commitment :** atleast 5 hours 
 
 
+## 9 - An Introduction to Theoretical Computer Science 
+* **Mentors :**Rohun Easwar (KnightWatch#7071),Pranjal Singh(pranjal#0532)
 * **Project Area :** Theory of Computation, Abstract Algebra
-
 * **Description :** This project is intended as an introduction to theoretical computer science.  (i) We will cover finite state machines (DFAs), Turing machines and some variants thereof, complexity classes, direct access (the random access in RAM) and circuits. (ii) We will also cover topics in algebra such as finite groups, rings and fields.  Other related topics can be explored as per the interests of the mentees, for example, quantum computing (how the elementary operations differ from classical operations) and one-way functions (and their relation to nondeterminism). Mentees are welcome to present topics that interest them.
 
-
 * **Intended Audience :** As the project is intended to introduce mentees to theoretical computer science, Y22 UGs stand to benefit the most.
-
-* **Expected Duration :** 8 weeks
- 
-* **Expected Weekly Commitment :** 3 hours
-  
-<!---* **Showcase :** [here](https://stamatics.github.io/projects-2022/insolvability-of-quintic-equations)
--->
-
-## 10 - Build Your own Computer vision Library
- 
-* **Mentors :** Pratham Sahu, Aditya Bangar
+* **Expected Duration :** 8 weeks 
+* **Expected Weekly Commitment :** 3 hours  
 
 
+## 10 - Build Your own Computer vision Library 
+* **Mentors :** Pratham Sahu(PRATHAMSAHU#6615),Aditya Bangar (AdityaBangar#5236),Dwija Kakkad(moonchronicle#5330)  
 
 * **Project Area :** Computer Vision
 
 * **Description :** Build a simple computer vision library in C(like Pytorch) to carry out operations like resize, filter, other processing functions. Will build an intuition into how computer vision actually works 
-  
 
-* **Intended Audience :** y21, y22.
+* **Intended Audience :** y21, y22
 
-* **Expected Duration :** 5-6 weeks 
+* **Expected Duration :** 5-6 weeks
 
-* **Expected Weekly Commitment :** 6 hours/week
+* **Expected Weekly Commitment :** 6 hours
 
-<!---* **Showcase :** [here](https://stamatics.github.io/projects-2022/rational-points-on-elliptic-curves)
--->
-
-## 11 - Probabilistic Thinking
- 
-* **Mentors :** Aryaman Singhal, Kumar Saurav, Lavesh Mangal
-
-
-
+## 11 -Probabilistic Thinking
+* **Mentors :** Aryaman Singhal (Putra#5030), Kumar Saurav ,Lavesh Mangal   
 
 * **Project Area :** Probabilty Theory, Stochastic Processes, Bayesian Analysis
 
-
-* **Description :**  Cover the applications of probability theory to various areas covering axiomatic probability theory, Monte Carlo Simulation methods, stochastic processes and Bayesian analysis applications to Machine learning.
-
+* **Description :** Cover the applications of probability theory to various areas covering axiomatic probability theory, Monte Carlo Simulation methods, stochastic processes and Bayesian analysis applications to Machine learning.
 
 * **Intended Audience :** Y21 (preferred), Y22
 
-
 * **Expected Duration :** 8 weeks
- 
 
 * **Expected Weekly Commitment :** 6-9 hrs
-<!---* **Showcase :** [here](https://stamatics.github.io/projects-2022/algo101x)
--->
+
 
 ## 12 - ClassifyMeister
+* **Mentors :** Sandipan Mitra  (Aeti#0020), Nitin Gupta (Reganite#7619), Alok Kumar
 
-* **Mentors :** Sandipan Mitra, Nitin Gupta, Alok Kumar
- 
- 
+* **Project Area :**Supervised Machine Learning
 
-* **Project Area :** Supervised Machine Learning
+* **Description :** Covering the classification algorithms in the Supervised machine learning domain. Will include Logistic regression, naive bayes, k-nearest neighbors, SVM, Decision trees. Tentatively include two programming-based applications as evaluation metrics to gauge the understanding of mentees in the project. 
 
+    Prerequisites : Basic level linear algebra(operations on matrices)
+    Recommended : Familiarity with arrays, libraries, functions in python (for assignments)
 
-* **Description :** Covering the classification algorithms in the Supervised machine learning domain. Will include Logistic regression, naive bayes, k-nearest neighbors, SVM, Decision trees. Tentatively include two programming-based applications as evaluation metrics to gauge the understanding of mentees in the project.
-
-
-  
 * **Intended Audience :** Open for all batches
-
 
 * **Expected Duration :** 10 weeks
 
+* **Expected Weekly Commitment :** 4-6 Hrs 
 
-* **Expected Weekly Commitment :** 4-6 hours
 
-<!---* **Showcase :** [here](https://stamatics.github.io/projects-2022/machine-learning-behind-the-curtain) 
--->
 
 ## 13 - Mathematical Trading Strategies
   
-* **Mentors:**  Muditt Khurana, Shivam Pandey
+* **Mentors:**  Muditt Khurana(Muditt Khurana#8767), Shivam Pandey(Rogue_Al_Capone#3815)
 
 
 
@@ -262,7 +186,7 @@ Prerequisites: MTH301 - attempting this course is important, I want to make link
 -->
 
 ## 14 - Knot Theory and its Applications
-* **Mentors:** Kalash Talati, Srivishnu Rajagopal 
+* **Mentors:** Kalash Talati(Kalash#8641), Srivishnu Rajagopal(Maari#8617)
 
 
 
@@ -283,7 +207,7 @@ Prerequisites:No pre req, No specific batch
 -->
 
 ## 15 - DataScience with R
-* **Mentors:** Sanat Goel, Siddharth Pathak, Rohit Jangid
+* **Mentors:** Sanat Goel(Sanat#0736), Siddharth Pathak(Siddharth Pathak#5745), Rohit Jangid(rohitJangid#2985)
 
 
  
@@ -306,7 +230,7 @@ Prerequisites:No pre req, No specific batch
 
 ## 16 - Forecasting using Time Series Analysis 
  
-* **Mentors:** Lavesh Gupta, Medha Srivastava, Shubham Kumar
+* **Mentors:** Lavesh Gupta(luhhvesh#6466), Medha Srivastava(Medha#3468), Shubham Kumar(Shubham#8231)
 
 
 
@@ -314,23 +238,31 @@ Prerequisites:No pre req, No specific batch
 * **Project Area :** Time Series Analysis, Stationary Processes, Machine Learning 
 
 
-* **Description :** In this project we will start full-fledged analysis of time series data. We'll brush up the basics of probability and statistics.  We'll learn to extract and store data, handle missing values, detect outliers. Then we'll move on to EDA and Analysis of time series, in which we'll cover topics like seasonality, stationarity, trends, autocorrelation, white noise etc. Next up, we'll start with time series models including stationary models like MA, ARMA, etc as well as Regressive Supervised Machine Learning models. In the end, we'll implement all our learnings for forecasting a financial time series (eg: Stock Price Prediction) and learn a bleeding-edge technique LSTM for forecasting and compare the results. 
+* **Description :** This project will cover in detail the concept of Time Series Analysis, which is a specific way of analyzing a sequence of data points collected over an interval of time. Time series analysis helps us understand the underlying causes of trends or systemic patterns over time. Using data visualizations, we can see seasonal trends and dig deeper into why these trends occur.
+Some of the topics we plan to cover :
+Time Series Data: Firstly, we'll look at the types of data and study how to make visualizations of those data, and how do we deal with missing values in our dataset. We also study how to find outliers in the data through some statistical methods.
+Characteristics and Components: Next, we'll study the characteristics of time series (smoothening, decomposition, correlation) and also study about the components of time series (trends, seasonality, cyclic variations, residuals)
+Time Series Models: Next up, we'll study each time series model in detail and implement them in python using statsmodel library. We will study basic models such as white noise and random walk, and move to more complex models such as AR, MA, ARIMA, SARIMAX and then study models that predict volatility such as ARCH, GARCH models.
+Space State Models: In the end, we’ll spend a week studying about State Space Models, particularly MSTL Decomposition, and make forecasting using Unobserved Components Models (UCM)
 
+
+
+* **Prerequisites :**Basics of Python, and Statistics (can be learnt quickly)
 
 * **Intended Audience :** Y21 and Y22 with an interest in forecast modelling,  finance, machine learning.  
 
 
-* **Expected Duration :**  9-10 Weeks
+* **Expected Duration :**  2-3 months
 
 
-* **Expected Weekly Commitment:** 6-8 hours
+* **Expected Weekly Commitment:** 6-7 hours
 
 <!---* **Showcase :** [here](https://stamatics.github.io/projects-2022/number-theory-and-cryptography)
 -->
 
 ## 17 - Intro to Machine and Deep Learning
 
-* **Mentors:** Anwesh Saha, Arindom Bora, Aakarsh Mishra
+* **Mentors:** Anwesh Saha(Anwesh#6428), Arindom Bora(AB10#7658), Aakarsh Mishra(Aakarsh Mishra#5686)
 
 
 
@@ -354,7 +286,7 @@ Prerequisites:No pre req, No specific batch
 
 ## 18 -  Mathematical predictor: machine learning
 
-* **Mentors:** Siddharth Garg, Rudransh Goel
+* **Mentors:** Siddharth Garg(Siddharth Garg#9537), Rudransh Goel(Rudransh #1712)
  
 
 
@@ -375,7 +307,7 @@ Prerequisites:No pre req, No specific batch
 
 ## 19 -  Image processing and computer vision
 
-* **Mentors:** Akshat Agarwal, Subhrajit Mishra
+* **Mentors:** Akshat Agarwal(akku#0940), Subhrajit Mishra(Subhrajit_Mishra#3214)
 
 * **Project Area :** machine learning , probability and statistics.
 
@@ -395,7 +327,7 @@ Prerequisite - mth102A and esc101A
 
 ## 20 -  You Only Look Once
 
-* **Mentors:** Saugat Kannojia, Shrilakshmi S K, Rohan Virmani
+* **Mentors:** Saugat Kannojia(Saugod#0051), Shrilakshmi S K(maathp#5873), Rohan Virmani(210871_RohanV#9397)
 
  
 
@@ -414,37 +346,12 @@ Prerequisite - mth102A and esc101A
 
 * **Expected Weekly Commitment:** 7-8 hours
 
-## 21 -  Image processing and computer vision
 
-* **Mentors:** Akshat Agarwal, Subhrajit Mishra
-
-* **Project Area :** machine learning , probability and statistics.
+## 21 -  PhysiLearn - Learning physics through neural networks
 
 
-* **Description :**  Sampling and quantization,  Image enhancement, Spatial domain analysis, frequency domain analysis, Edge detection, Image segmentation using ML algorithms, Image denoising, important probability distributions and their usage 
-
-Prerequisite - mth102A and esc101A 
-
-
-* **Intended Audience :** highly enthusiastic y22s / y21s preferred,
-
-* **Expected Duration :** 6 to 8 weeks
-
-
-* **Expected Weekly Commitment:** 10 hr/week
-
-
-## 22 -  PhysiLearn - Learning physics through neural networks
-
-
-* **Mentors:** Emaad Ahmed, Om Shrivastava, Aayush Gupta, Shivansh Maheshwari
+* **Mentors:** Emaad Ahmed(EmaadAhmed#9226), Om Shrivastava(om shrivastava#6974), Aayush Gupta(AayuGupt#1331), Shivansh Maheshwari(Shivansh Maheshwari#9708)
  
- 
-
-
-
- 
-
 
 * **Project Area :** Mathematical Physics
 
@@ -464,11 +371,11 @@ Prerequisite: - Familiarity with Python.
 
 * **Expected Weekly Commitment:** 8-10 Hours
 
-## 23 -  Networking of Nodes
+## 22 -  Networking of Nodes
 
 
 
-* **Mentors:** Havi Bohr, Vekariya Keval,
+* **Mentors:** Havi Bohra(havi#6078), Vekariya Keval(Keval#1656),Venkaat Balaje(Venkaat Balaje#6196)
 
  
 
@@ -487,17 +394,14 @@ Prerequisite: - ESC101(or ESC111+ESC112)/ Familiarity with C/C++
 
 * **Expected Duration :** 2 months
 
-## 24 - Cryptographic Applications of Number Theory and Abstract Algebra
+## 23 - Cryptographic Applications of Number Theory and Abstract Algebra
 
 
 
 
-* **Mentors:** Mihir Mitta,Shwetank Anand, Aditya Kumar
+* **Mentors:** Mihir Mittal(none_24#0679),Shwetank Anand(Shwetank Anand#0363), Aditya Kumar(ADITYA KUMAR#4526)
 
 
-
-
- 
 
 * **Project Area :** Abstract Algebra, Number Theory, Group Theory and Cryptography
 
