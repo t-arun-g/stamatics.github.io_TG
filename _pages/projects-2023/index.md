@@ -34,6 +34,8 @@ The recording of the projects introductory session can be found [here](https://y
 
      * **Prerequisites :** Some very basic combinatorics (say roughly at the level of Bona's A Walk through Combinatorics or the course CS201) is desirable. More knowledge related to the kind of problems one is interested in tackling (for instance, from Stanley's books for enumerative combinatorics or Alon and Spencer's The Probabilistic Method for some extremal stuff) would be helpful. None of this is strictly necessary (or sufficient) and most things can be picked up as we go along. Some mathematical maturity is perhaps the only essential requirement.
 
+* **Intended Audience :** Open to all
+
 * **Expected Duration :** 2-3 months 
 
 * **Expected Weekly Commitment :** 3-6 hours  
@@ -125,7 +127,7 @@ Basic python skills , Anyone with enthu is welcome(specially Y22)
 
 * **Description :** Build a simple computer vision library in C(like Pytorch) to carry out operations like resize, filter, other processing functions. Will build an intuition into how computer vision actually works 
 
-* **Intended Audience :** y21, y22
+* **Intended Audience :** Open to all
 
 * **Expected Duration :** 5-6 weeks
 
