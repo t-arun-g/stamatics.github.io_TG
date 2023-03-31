@@ -64,10 +64,10 @@ The recording of the projects introductory session can be found [here](https://y
 <!---* **Showcase :** [here](https://stamatics.github.io/projects-2022/number-theory-and-cryptography)  
 -->
 
-## 5 - The Rubix Cube: A Study In Group Theory 
+## 5 - Rubik's Cube meets Group Theory: An Algorithmic Adventure
 * **Mentors :** Sai Praneeth D (electric_trash#2834), Tarun Goyal (TarunGoyal#3482)
 * **Project Area :** Abstract Algebra 
-* **Description :** In this project we will study the maths behind the Rubix Cube, focussing on the topic of Group Theory. Initially the project will delve into the fundamentals of Group Theory and relevant concepts that will be required. We shall further explore how these concepts can be applied in solving the Rubix. The overall aim of this project is to explore a more theoretical and abstract side of mathematics and how it has real life practical uses using the rubix cube as a basic example.
+* **Description :** In this project we will study the maths behind the Rubik's Cube, focussing on the topic of Group Theory. Initially the project will delve into the fundamentals of Group Theory and relevant concepts that will be required. We shall further explore how these concepts can be applied in solving the 3*3 Rubik's cube. The overall aim of this project is to explore a more theoretical and abstract side of mathematics and how it has real life practical uses using the rubik's cube as an example.
 
 
 
@@ -427,39 +427,3 @@ Prerequisite: - ESC101(or ESC111+ESC112)/ Familiarity with C/C++
 
 * **Expected Weekly Commitment:** 6-7 hours
 
-## 24 -  Mathematical Foundations of Computer Graphics, Rendering, and Lighting
-
-
-
-
-
-* **Mentors:** Ishan Bawne(RockStarDaddy#8138), Prakhar Pratap Mall(TheTUFGuy#0138)
-
-
-
-
- 
-
-* **Project Area :** Computer graphics
-
-
-* **Description :** In this project, students will explore the mathematical foundations of computer graphics, rendering, and lighting. Over eight weeks, they will cover topics such as ray tracing, lighting, procedural generation, and special topics like curves, tangents, and splines. Students will also learn programming skills in C++/C# and develop problem-solving skills that are valuable in various fields such as game development, computer graphics, and computer vision.
-
-Throughout the course, students will gain hands-on experience implementing ray tracing, procedural generation, and mesh generation techniques. By the end of the course, they will have a solid understanding of the mathematical foundations of computer graphics and will be able to apply their skills in real-world situations. This course is perfect for anyone interested in computer graphics or game development and is looking to expand their knowledge and skillset in these areas.
-
-
-
-
-
-
-* **Intended Audience :** Y20/Y21, Y22 with decent C++/C# experience
-
-
-
-* **Expected Duration :** 8 weeks
-
-
-
-
-
-* **Expected Weekly Commitment:** 9-10 hours/week
