@@ -64,11 +64,10 @@ The recording of the projects introductory session can be found [here](https://y
 <!---* **Showcase :** [here](https://stamatics.github.io/projects-2022/number-theory-and-cryptography)  
 -->
 
-## 5 - The Rubix Cube: A Study In Group Theory 
+## 5 - Rubik's Cube meets Group Theory: An Algorithmic Adventure
 * **Mentors :** Sai Praneeth D (electric_trash#2834), Tarun Goyal (TarunGoyal#3482)
 * **Project Area :** Abstract Algebra 
-* **Description :** In this project we will study the maths behind the Rubix Cube, focussing on the topic of Group Theory. Initially the project will delve into the fundamentals of Group Theory and relevant concepts that will be required. We shall further explore how these concepts can be applied in solving the Rubix. The overall aim of this project is to explore a more theoretical and abstract side of mathematics and how it has real life practical uses using the rubix cube as a basic example.
-
+* **Description :** In this project we will study the maths behind the Rubik's Cube, focussing on the topic of Group Theory. Initially the project will delve into the fundamentals of Group Theory and relevant concepts that will be required. We shall further explore how these concepts can be applied in solving the 3*3 Rubik's cube. The overall aim of this project is to explore a more theoretical and abstract side of mathematics and how it has real life practical uses using the rubik's cube as an example.
 
 
 * **Intended Audience :** Y22 mainly, Y21 also
